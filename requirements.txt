@@ -1,0 +1,4 @@
+# optional, only for --firebase-key / --firebase-url
+# firebase-admin
+# optional, only for plots
+# matplotlib
